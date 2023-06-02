@@ -27,7 +27,7 @@
 > - `CSV_PATH`:每张图片的具体信息(id,tags,file_url之类)保存在这里
 > 
 
-<img src="./pics_for_readme/1.png" align="left" style="zoom:80%;" />
+<img src="./1.png" align="left" style="zoom:80%;" />
 
 ​	然后运行**Main.py**程序就可以了。如果是在控制台下,输入**`python Main.py`**运行程序。
 
@@ -39,7 +39,7 @@
 >
 > - 更新chrome浏览器至`108`版本以后,或者自行调整`93~95`行程序
 >
-> 	<img src="./pics_for_readme/2.png" align="left" style="zoom:80%;" />
+> 	<img src="./2.png" align="left" style="zoom:80%;" />
 > 	
 > - [下载与自己浏览器对应版本的chromedriver](https://blog.csdn.net/zhoukeguai/article/details/113247342)
 
