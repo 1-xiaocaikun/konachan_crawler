@@ -13,13 +13,13 @@
 > - [python3.6+](https://github.com/ultrafunkamsterdam/undetected-chromedriver/blob/master/README.md)
 > - Chrome 浏览器
 
-打开控制台(cmd)，在当前python环境下输入**`pip install -r requirements.txt`**下载相关的库
+打开控制台(cmd)，在当前python环境下输入`pip install -r requirements.txt`下载相关的库
 
 ---
 
 ## 1.如何运行
 
-​	首先更改**.env**文件里的配置信息,确定爬的范围和文件保存路径
+​	首先更改.env文件里的配置信息,确定爬的范围和文件保存路径
 
 > - `IMG_FLODER_PATH`:所有从网站上下载的原图保存在这里
 > - `ScreenShot`:每爬一页把这一页截图保存在的它的子文件夹(按当前运行时间命名)里
@@ -29,13 +29,13 @@
 
 <img src="./1.png" align="left" style="zoom:80%;" />
 
-​	然后运行**Main.py**程序就可以了。如果是在控制台下,输入**`python Main.py`**运行程序。
+​	然后运行**Main.py**程序就可以了。如果是在控制台下,输入`python Main.py`运行程序。
 
 ---
 
 ## 2.(可能出现的)错误解决方法
 
-> - 关掉代理(如果你~~_翻墙_~~用了魔法了的话)
+> - 关掉代理(如果你翻墙了的话)
 >
 > - 更新chrome浏览器至`108`版本以后,或者自行调整`93~95`行程序
 >
